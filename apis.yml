@@ -41,7 +41,6 @@ apis:
   - name: Icanhazepoch
     description: "Get Epoch time"
     humanURL: https://icanhazepoch.com
-    baseURL: https://icanhazepoch.com
     tags:
       - Development
     properties:
